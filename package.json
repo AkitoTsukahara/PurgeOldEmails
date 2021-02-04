@@ -1,0 +1,26 @@
+{
+  "name": "PurgeOldEmails",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkitoTsukahara/PurgeOldEmails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkitoTsukahara/PurgeOldEmails/issues"
+  },
+  "homepage": "https://github.com/AkitoTsukahara/PurgeOldEmails#readme",
+  "description": "",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.22"
+  }
+}
